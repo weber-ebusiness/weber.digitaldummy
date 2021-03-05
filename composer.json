@@ -1,6 +1,7 @@
 {
     "name": "weber.digital/weber.digitaldummy",
     "description": "weber.digital Dummy",
+    "license": "MIT",
     "authors": [
         {
             "name": "weber.digital",
